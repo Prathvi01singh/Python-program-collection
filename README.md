@@ -1,4 +1,4 @@
-# Project 1: Programs Collection (C++)
+# Project 1: Programs Collection (Python)
 
 A small collection of three classic programs in one C++ file: factorial, Fibonacci, and a structure-to-dictionary conversion.
 
