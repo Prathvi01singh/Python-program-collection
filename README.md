@@ -1,12 +1,12 @@
 # Project 1: Programs Collection (Python)
 
-A small collection of three classic programs in one C++ file: factorial, Fibonacci, and a structure-to-dictionary conversion.
+A small collection of three classic programs in one Python file: factorial, Fibonacci, and a structure-to-dictionary conversion.
 
 ## Description
 The program asks for a number to compute its factorial, asks how many Fibonacci numbers to print, and then converts a `Student` struct into a `std::map` (C++'s version of a Python dictionary) and prints each key and value.
 
 ## Technologies
-- C++17
+- Python17
 - Standard library: `iostream`, `vector`, `map`, `string`
 
 ## Features
